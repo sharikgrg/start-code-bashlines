@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# chmod +x gitpush.sh
+# ./gitpush.sh
 git add .
 
 echo 'Enter the commit message:'
