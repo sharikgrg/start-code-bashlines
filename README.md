@@ -31,6 +31,8 @@ Users that exist:
 
     chmod <permission> <path/file> -- without the brackets
 
+![changing- permissins](https://danielmiessler.com/images/permissions.png)
+
 ## streams, redirects and piping
 ### streams
 std -- standard
